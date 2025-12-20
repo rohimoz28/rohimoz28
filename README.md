@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://docs.google.com/document/d/1W013MTl9rjzv9FGnZ67aLq6RH9mc-pt75SQXimR-EjA/edit?usp=drive_link](https://docs.google.com/document/d/1W013MTl9rjzv9FGnZ67aLq6RH9mc-pt75SQXimR-EjA/edit?usp=drive_link)
 
-- 📝 I regularly write articles on [https://rohimoz28.github.io/](https://rohimoz28.github.io/)
+- 📝 I regularly write articles on [https://rohimoz28.netlify.app/](https://rohimoz28.netlify.app/)
 
 - 📫 How to reach me **rohimuhamadd@gmail.com**
 
