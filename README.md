@@ -16,11 +16,11 @@ My improvement track record includes reducing bug rate by introducing Git workfl
 - LinkedIn: [https://www.linkedin.com/in/rohim-muhamad-274351307/](https://www.linkedin.com/in/rohim-muhamad-274351307/)
 
 ## Featured Projects
-| Project | Fokus | Tech Stack | Impact | Status | Repository |
-| --- | --- | --- | --- | --- | --- |
-| `project-odoo-sales-workflow` | Odoo custom workflow for multi-level sales approval, audit trail, and role-based validation | Odoo, Python, PostgreSQL | Reduce manual approval bottleneck and improve process visibility across teams | Demo/Lab | [github.com/rohimoz28/project-odoo-sales-workflow](https://github.com/rohimoz28/project-odoo-sales-workflow) |
-| `project-odoo-reporting-export` | Odoo reporting customization with SQL query optimization and export output to Excel/PDF | Odoo, Python, PostgreSQL | Faster reporting cycle for operation and finance decision making | Demo/Lab | [github.com/rohimoz28/project-odoo-reporting-export](https://github.com/rohimoz28/project-odoo-reporting-export) |
-| `project-postgresql-replication-lab` | PostgreSQL streaming replication lab with backup automation, failover drill, and monitoring baseline | PostgreSQL, Docker, Linux, Bash, Grafana | Improve service resiliency with tested recovery path and proactive alerting | Demo/Lab | [github.com/rohimoz28/project-postgresql-replication-lab](https://github.com/rohimoz28/project-postgresql-replication-lab) |
+| Project | Fokus | Tech Stack | Status | Repository |
+| --- | --- | --- | --- | --- |
+| `learn-odoo-basic` | Odoo server framework tutorial for building a custom module from scratch with incremental development flow | Odoo, Python, PostgreSQL | Learning/Tutorial | [github.com/rohimoz28/learn-odoo-basic](https://github.com/rohimoz28/learn-odoo-basic) |
+| `setup-odoo-dev` | Docker-based Odoo 17 development setup with PostgreSQL, custom addons support, and service lifecycle script | Odoo, Docker, PostgreSQL, Bash | Public Setup | [github.com/rohimoz28/setup-odoo-dev](https://github.com/rohimoz28/setup-odoo-dev) |
+| `lab-postgresql-async-replication` | PostgreSQL 16 async streaming replication PoC with Docker Compose, optional Flask API testing, and replication health monitoring query | PostgreSQL, Docker, Flask, Python, Bash | Lab/Showcase | [github.com/rohimoz28/lab-postgresql-async-replication](https://github.com/rohimoz28/lab-postgresql-async-replication) |
 
 ## Platform Links
 - GitHub: [https://github.com/rohimoz28](https://github.com/rohimoz28)
