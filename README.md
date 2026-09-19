@@ -12,9 +12,6 @@ I am a Software Engineer focused on Odoo customization and team delivery executi
 
 My improvement track record includes reducing bug rate by introducing Git workflow discipline, increasing deployment speed and volume with GitLab CI/CD, creating onboarding workflow and internal course for new team members, and automating daily backup cronjob for Odoo + PostgreSQL with monitoring dashboard and alerting policy using Grafana.
 
-## Connect
-- LinkedIn: [https://www.linkedin.com/in/rohim-muhamad-274351307/](https://www.linkedin.com/in/rohim-muhamad-274351307/)
-
 ## Featured Projects
 | Project | Fokus | Tech Stack | Status | Repository |
 | --- | --- | --- | --- | --- |
@@ -23,7 +20,6 @@ My improvement track record includes reducing bug rate by introducing Git workfl
 | `lab-postgresql-async-replication` | PostgreSQL 16 async streaming replication PoC with Docker Compose, optional Flask API testing, and replication health monitoring query | PostgreSQL, Docker, Flask, Python, Bash | Lab/Showcase | [github.com/rohimoz28/lab-postgresql-async-replication](https://github.com/rohimoz28/lab-postgresql-async-replication) |
 
 ## Platform Links
-- GitHub: [https://github.com/rohimoz28](https://github.com/rohimoz28)
 - Blog: [https://rohimoz28.netlify.app/](https://rohimoz28.netlify.app/)
 - LinkedIn: [https://www.linkedin.com/in/rohim-muhamad-274351307/](https://www.linkedin.com/in/rohim-muhamad-274351307/)
 
