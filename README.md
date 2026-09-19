@@ -6,6 +6,7 @@
 - 👨‍💻 Portfolio (PDF): [assets/portfolio-rohim.pdf](assets/portfolio-rohim.pdf)
 - 📝 Blog: [https://rohimoz28.netlify.app/](https://rohimoz28.netlify.app/)
 - 📫 Email: **rohimuhamadd@gmail.com**
+- 👤 LinkedIn: [https://www.linkedin.com/in/rohim-muhamad-274351307/](https://www.linkedin.com/in/rohim-muhamad-274351307/)
 
 ## About Me
 I am a Software Engineer focused on Odoo customization and team delivery execution. I lead development for custom modules, reporting query design to Excel/PDF, workflow design, deployment, and technical documentation. I also evaluate team delivery process to make execution more efficient and keep team motivation strong.
@@ -18,10 +19,6 @@ My improvement track record includes reducing bug rate by introducing Git workfl
 | `rh-odoo-modules` | This repository contains personal projects related to Odoo development | Odoo | Self Project | [https://github.com/rohimoz28/rh-odoo-modules](https://github.com/rohimoz28/rh-odoo-modules) |
 | `setup-project-odoo` | Docker-based Odoo 17 development setup with PostgreSQL, custom addons support, and service lifecycle script | Odoo, Docker, PostgreSQL, Bash | Public Setup | [https://github.com/rohimoz28/setup-project-odoo](https://github.com/rohimoz28/setup-project-odoo) |
 | `lab-postgresql-async-replication` | PostgreSQL 16 async streaming replication PoC with Docker Compose, optional Flask API testing, and replication health monitoring query | PostgreSQL, Docker, Flask, Python, Bash | Lab/Showcase | [github.com/rohimoz28/lab-postgresql-async-replication](https://github.com/rohimoz28/lab-postgresql-async-replication) |
-
-## Platform Links
-- Blog: [https://rohimoz28.netlify.app/](https://rohimoz28.netlify.app/)
-- LinkedIn: [https://www.linkedin.com/in/rohim-muhamad-274351307/](https://www.linkedin.com/in/rohim-muhamad-274351307/)
 
 ## What I Can Help With
 - Odoo custom and integration
