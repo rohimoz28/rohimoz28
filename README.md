@@ -19,7 +19,7 @@ My improvement track record includes reducing bug rate by introducing Git workfl
 | Project | Fokus | Tech Stack | Status | Repository |
 | --- | --- | --- | --- | --- |
 | `rh-odoo-modules` | This repository contains personal projects related to Odoo development | Odoo | Self Project | [https://github.com/rohimoz28/rh-odoo-modules](https://github.com/rohimoz28/rh-odoo-modules) |
-| `setup-odoo-dev` | Docker-based Odoo 17 development setup with PostgreSQL, custom addons support, and service lifecycle script | Odoo, Docker, PostgreSQL, Bash | Public Setup | [github.com/rohimoz28/setup-odoo-dev](https://github.com/rohimoz28/setup-odoo-dev) |
+| `setup-project-odoo` | Docker-based Odoo 17 development setup with PostgreSQL, custom addons support, and service lifecycle script | Odoo, Docker, PostgreSQL, Bash | Public Setup | [https://github.com/rohimoz28/setup-project-odoo](https://github.com/rohimoz28/setup-project-odoo) |
 | `lab-postgresql-async-replication` | PostgreSQL 16 async streaming replication PoC with Docker Compose, optional Flask API testing, and replication health monitoring query | PostgreSQL, Docker, Flask, Python, Bash | Lab/Showcase | [github.com/rohimoz28/lab-postgresql-async-replication](https://github.com/rohimoz28/lab-postgresql-async-replication) |
 
 ## Platform Links
